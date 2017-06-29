@@ -1,0 +1,11 @@
++ [*] (hola|todo bien) [*]
+- Hola, estoy bien! Como yo puedo ajudar?
+
++ [*] pizza portuguesa [*]
+- Yes! Qual es el tamaño de la pizza?
+
++ [*] (p|pequena)
+- Ok, la pizza portuguesa pequeña cuesta R $ 40.00
+
++ [*] pizza del [*]
+- És buena!
